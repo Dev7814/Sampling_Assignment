@@ -13,7 +13,7 @@ Following 5 sampling Techniques were used:
 5. Near Miss (Sampling5)
 
 
-The Sample size was calculates using the following formula: n = Z^2(p(1 – p)/m2) where: 
+The Sample size was calculates using the following formula: n = Z^2(p(1 – p)/m^2) where: 
 n = sample size
 Z = z-value (for 95% confidence interval, Z = 1.96)
 p = proportion of the minority class (taken as 0.5 for a balanced dataset)
